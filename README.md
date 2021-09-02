@@ -1,6 +1,6 @@
 
 ## TNT PAPER REVIEW
-# **Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting**
+# **Temporal Fusion Transformers**
 
 <br/>
 
